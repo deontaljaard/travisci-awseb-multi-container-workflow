@@ -4,6 +4,8 @@
 
 The project houses an (over engineerd) Fibonacci calculator. Used it to learn more about a more complex CI flow.
 
+```text
 client -> nginx -> react app
                 -> server    -> redis
                              -> postgres
+```
