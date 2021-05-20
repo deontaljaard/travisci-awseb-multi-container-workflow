@@ -6,6 +6,6 @@ The project houses an (over engineerd) Fibonacci calculator. Used it to learn mo
 
 ```text
 client -> nginx -> react app
-                -> server    -> redis
+                -> server    -> redis <- worker
                              -> postgres
 ```
